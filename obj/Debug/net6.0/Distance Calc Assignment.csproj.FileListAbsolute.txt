@@ -1,0 +1,15 @@
+F:\C#\Distance-Calculator-Assignment\bin\Debug\net6.0\Distance Calc Assignment.exe
+F:\C#\Distance-Calculator-Assignment\bin\Debug\net6.0\Distance Calc Assignment.deps.json
+F:\C#\Distance-Calculator-Assignment\bin\Debug\net6.0\Distance Calc Assignment.runtimeconfig.json
+F:\C#\Distance-Calculator-Assignment\bin\Debug\net6.0\Distance Calc Assignment.dll
+F:\C#\Distance-Calculator-Assignment\bin\Debug\net6.0\Distance Calc Assignment.pdb
+F:\C#\Distance-Calculator-Assignment\obj\Debug\net6.0\Distance Calc Assignment.csproj.AssemblyReference.cache
+F:\C#\Distance-Calculator-Assignment\obj\Debug\net6.0\Distance Calc Assignment.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Distance-Calculator-Assignment\obj\Debug\net6.0\Distance Calc Assignment.AssemblyInfoInputs.cache
+F:\C#\Distance-Calculator-Assignment\obj\Debug\net6.0\Distance Calc Assignment.AssemblyInfo.cs
+F:\C#\Distance-Calculator-Assignment\obj\Debug\net6.0\Distance Calc Assignment.csproj.CoreCompileInputs.cache
+F:\C#\Distance-Calculator-Assignment\obj\Debug\net6.0\Distance Calc Assignment.dll
+F:\C#\Distance-Calculator-Assignment\obj\Debug\net6.0\refint\Distance Calc Assignment.dll
+F:\C#\Distance-Calculator-Assignment\obj\Debug\net6.0\Distance Calc Assignment.pdb
+F:\C#\Distance-Calculator-Assignment\obj\Debug\net6.0\Distance Calc Assignment.genruntimeconfig.cache
+F:\C#\Distance-Calculator-Assignment\obj\Debug\net6.0\ref\Distance Calc Assignment.dll
